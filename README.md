@@ -1,1 +1,4 @@
 # A-Text-Based-Adventure-Game
+Technologies Required: Java programming language, Java objects and classes, and Array and Hashmaps.
+A Text-Based Adventure game, built using Java and Data Structures is an interesting game where the player follows the commands given to him. This web-based gaming app is often referred to as interactive fiction.
+This game has a central character called the “Adventurer” which is like an object who represents the player. With the help of the object, tracking of the actual player can be made easy, also can find where the player is. The role of the adventurer is to type the commands which consist of one or two words. The commands which have to be followed can be Go, Look, Take, Drop, Use, and Exit. It contains the following classes TextAdventure, AdventureModel, Adventurer, and a number of rooms.
